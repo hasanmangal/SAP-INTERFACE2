@@ -1,0 +1,57 @@
+.anadiv{
+
+    border:solid; color:gray; margin:auto; 
+}
+
+.checked {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  ul, #myUL {
+    list-style-type: none;
+  }
+  
+  #myUL {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .box {
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari 3.1+ */
+    -moz-user-select: none; /* Firefox 2+ */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none;
+  }
+  
+  .box::before {
+    content: "\2610";
+    color: black;
+    display: inline-block;
+    margin-right: 6px;
+  }
+  
+  .check-box::before {
+    content: "\2611"; 
+    color: dodgerblue;
+  }
+  
+  .nested {
+    display: none;
+  }
+  
+  .active {
+    display: block;
+  }
+
+#yurut2,.hesap,.ek{
+  display: none;
+}

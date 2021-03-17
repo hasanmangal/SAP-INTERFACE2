@@ -1,0 +1,1 @@
+Örnek Proje de ki görüntü SAP ekranından alınmış ve aynısının yapılması istenmiştir.SAP Arayüzünü HTML,JavaScript ve Bootstrap Teknolojileri Kullanarak yapılması istenmiştir.İşlevsel ve UA Olarak yapılmıştır.
