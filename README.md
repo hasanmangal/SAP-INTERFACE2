@@ -1,2 +1,2 @@
-# SAP INTERFACE
- Sap Arayüzü geliştirme projesi
+# SAP-INTERFACE
+ Case de İstenen SAP arayüzü projesi yapılmıştır.
